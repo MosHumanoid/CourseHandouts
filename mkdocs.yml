@@ -1,0 +1,6 @@
+site_name: 课程讲义 - 足球机器人
+
+nav:
+  - 主页: index.md
+  - 基础:
+    - basics/index.md
